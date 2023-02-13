@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+    color: rgb(219, 211, 218);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 100px;
+}

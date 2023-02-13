@@ -1,0 +1,42 @@
+body {
+    text-align: justify;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+.comparison_operators {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boolean_type {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.String_comparison {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.types {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;   
+}
+
+.strict_comparison {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;   
+}
+
+.null_undefined {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;   
+}
+
+.total {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;   
+}
