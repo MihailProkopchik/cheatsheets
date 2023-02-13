@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+p {
+    margin-left: 20px;
+    line-height: 23px;
+}
+
+span {
+    font-size: x-large;
+}
