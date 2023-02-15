@@ -1,11 +1,10 @@
 body {
-
     text-align: justify;
 }
 
 td {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
 }
 
 .string__text {
@@ -25,11 +24,16 @@ td {
 .table {
     border: 1px solid black;
     margin: 0 auto;
-    width: 1000px;
+    width: 1300px;
     background-color: rgb(31, 41, 2);
     color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+}
+
+TD {
+    border: 1px solid black;
 }
 
 .table__head {
